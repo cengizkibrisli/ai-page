@@ -191,7 +191,7 @@ export default function Chat() {
         />
         {isLoading ? null : (
           <p className="text-xs ml-2 font-medium text-gray-900">
-            Tip: A landing page for Medical website
+            Tip: A landing page for Online Shopping website
           </p>
         )}
       </form>
